@@ -4,7 +4,7 @@ This repository contains the Java back-end for a simple chat application. The we
 WebSockets provide full-duplex communication channels over a single, long-lived connection. This makes them well-suited for real-time applications where low latency communication is crucial, such as chat applications.
 
 ## API Documentation
-Explore the WebSocket endpoints and their usage in the [API Documentation](https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API)
+Explore the WebSocket endpoints and their usage in the [WebSocket API Documentation](https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API).
 
 ## Technologies Used
 
