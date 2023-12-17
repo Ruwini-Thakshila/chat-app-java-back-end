@@ -2,7 +2,8 @@
 This repository contains the Java back-end for a simple chat application. The web services in this app are implemented using both the RESTful API and the WebSocket API.
 
 WebSockets provide full-duplex communication channels over a single, long-lived connection. This makes them well-suited for real-time applications where low latency communication is crucial, such as chat applications.
-
+### Front-End
+https://github.com/Ruwini-Thakshila/chat-app-front-end
 ## API Documentation
 Explore the WebSocket endpoints and their usage in the [WebSocket API Documentation](https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API).
 
