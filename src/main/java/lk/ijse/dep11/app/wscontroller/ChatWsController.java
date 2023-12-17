@@ -25,6 +25,9 @@ public class ChatWsController extends TextWebSocketHandler {
 
     private final List<WebSocketSession> webSocketSessionList =new ArrayList<>();
 
+    public ChatWsController() {
+    }
+
     @Override
     public void afterConnectionEstablished(WebSocketSession session) throws Exception {
         webSocketSessionList.add(session);

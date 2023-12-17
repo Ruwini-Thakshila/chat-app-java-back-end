@@ -19,4 +19,7 @@ public class MessageTo implements Serializable {
     @NotEmpty(message = "Email can't be empty")
     @Email(message = "Invalid email")
     private String email;
+
+    @NotEmpty(message = "name can't be empty")
+    private String name;
 }
